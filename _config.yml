@@ -5,10 +5,10 @@
 
 # --- Required options --- #
 # Name of website
-title: Open Arabic Periodical Editions
+title: 57-523
 
 # Short description of your site
-description: A framework for bootstrapped digital scholarly editions outside the global north
+description: Von der Druckerpresse zu Radio und Twitter
 
 author: Till Grallert
 
@@ -60,7 +60,7 @@ social-network-links:
   rss: true
   email: "till.grallert@fu-berlin.de"
   #facebook: deanattali
-  github: openarabicpe
+  github: tillgrallert
   twitter: tillgrallert
 #  reddit: yourname
 #  linkedin: yourname
@@ -95,7 +95,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "openarabicpe.github.io"  # eg. "deanattali.com/beautiful-jekyll"
+# url-pretty: "openarabicpe.github.io"  # eg. "deanattali.com/beautiful-jekyll"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 250
