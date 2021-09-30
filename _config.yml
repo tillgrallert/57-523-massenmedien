@@ -4,37 +4,45 @@
 # the initial set up you won't need to come back to this file often.
 
 # --- Required options --- #
-
 # Name of website
-title: My website
+title: Open Arabic Periodical Editions
 
 # Short description of your site
-description: A virtual proof that I'm awesome
+description: A framework for bootstrapped digital scholarly editions outside the global north
 
-# GitHub Actions
-repository: "VincentTam/beautiful-jekyll"
+author: Till Grallert
 
 # --- Local development options ---
 # If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
 # *** If you're not sure what this mean, then leave this section as it is. Only modify the url and baseurl if you know what you're doing!***
 
-# Your name to show in the footer
-author: Some Person
+# url is the the website domain URL without a trailing slash
+#url: "https://example.com"
 
-# --- List of links in the navigation bar --- #
+# baseurl should be an empty string
+#baseurl: ""
 
+# --- Navigation bar options --- #
+
+# List of links in the navigation bar
 navbar-links:
-  About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  About: "pages/about"
+  Editions: 
+    - Overview: "pages/editions"
+    - al-Ḥaqāʾiq: "https://www.github.com/openarabicpe/digital-haqaiq"
+    - al-Muqtabas: "https://www.github.com/tillgrallert/digital-muqtabas"
+    - al-Manār: "https://www.github.com/openarabicpe/journal_al-manar"
+    - al-Ustādh: "https://www.github.com/openarabicpe/journal_al-ustadh"
+    - al-Zuhūr: "https://www.github.com/openarabicpe/journal_al-zuhur"
+    - Lughat al-ʿArab: "https://www.github.com/openarabicpe/journal_lughat-al-arab"
+  Zotero group: "https://www.zotero.org/groups/904125/openarabicpe/items"
+  How-to:
+    - Contribute: "pages/how-to/contribute"
+    - Search: "pages/how-to/search"
 
-# --- Logo --- #
-
-# Image to show in the navigation bar - works best with a square image
+# Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/assets/img/avatar-icon.png"
+# avatar: "/assets/img/avatar-icon.png"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
 round-avatar: true
@@ -49,33 +57,32 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "someone@example.com"
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
-  patreon: DeanAttali
-  youtube: c/daattali
-#  medium: yourname
+  rss: true
+  email: "till.grallert@fu-berlin.de"
+  #facebook: deanattali
+  github: openarabicpe
+  twitter: tillgrallert
 #  reddit: yourname
-#  linkedin: daattali
+#  linkedin: yourname
 #  xing: yourname
-#  stackoverflow: "3943160/daattali"
-#  snapchat: deanat78
-#  instagram: deanat78
+#  stackoverflow: "yourname"
+#  snapchat: yourname
+#  instagram: yourname
+#  youtube: user/yourname
 #  spotify: yourname
-#  telephone: +14159998888
-#  steam: deanat78
+#  telephone: phone number
+#  steam: yourname
 #  twitch: yourname
 #  yelp: yourname
 #  telegram: yourname
 #  calendly: yourname
 #  mastodon: instance.url/@username
-#  ORCID: your ORCID ID
+  ORCID: 0000-0002-5739-8094
 #  google-scholar: your google scholar
 
 # If you want to show a link to an RSS in the footer, add the site description here.
 # If you don't want to show an RSS link, remove the following line.
-rss-description: This website is a virtual proof that I'm awesome
+#rss-description: This website is a virtual proof that I'm awesome
 
 # --- General options --- #
 
@@ -83,15 +90,15 @@ rss-description: This website is a virtual proof that I'm awesome
 share-links-active:
   twitter: true
   facebook: true
-  linkedin: true
+  linkedin: false
   vk: false
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"
+url-pretty: "openarabicpe.github.io"  # eg. "deanattali.com/beautiful-jekyll"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
-excerpt_length: 50
+excerpt_length: 250
 
 # Whether or not to show an excerpt for every blog post in the feed page
 feed_show_excerpt: true
@@ -184,10 +191,10 @@ footer-link-col: "#404040"
 # https://github.com/eduardoboucas/staticman/ and https://staticman.net/ for further 
 # instructions. For any support with staticman please direct questions to staticman and 
 # not to BeautifulJekyll.
-staticman:
-  repository : vincenttam/beautiful-jekyll # GitHub username/repository eg. "daattali/beautiful-jekyll"
-  branch     : gh-pages # If you're not using `master` branch, then you also need to update the `branch` parameter in `staticman.yml`
-  endpoint   : https://secretman3.herokuapp.com/v3/entry/github/ # URL of your deployment, with a trailing slash eg. "https://<your-api>/v3/entry/github/"
+#staticman:
+#  repository : # GitHub username/repository eg. "daattali/beautiful-jekyll"
+#  branch     : master # If you're not using `master` branch, then you also need to update the `branch` parameter in `staticman.yml`
+#  endpoint   : # URL of your deployment, with a trailing slash eg. "https://<your-api>/v3/entry/github/"
 #  reCaptcha:   # (optional, set these parameters in `staticman.yml` as well) 
 #    siteKey  : # You need to apply for a site key on Google
 #    secret   : # Encrypt your password by going to https://<your-own-api>/v3/encrypt/<your-site-secret>
@@ -195,7 +202,7 @@ staticman:
 # --- Misc --- #
 
 # Ruby Date Format to show dates of posts
-date_format: "%B %-d, %Y"
+date_format: "%-d %B %Y"
 
 # Facebook App ID
 #fb_app_id: ""
@@ -203,7 +210,7 @@ date_format: "%B %-d, %Y"
 # --- You don't need to touch anything below here (but you can if you want) --- #
 
 # Output options (more information on Jekyll's site)
-timezone: "America/Toronto"
+timezone: "Europe/Berlin"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
