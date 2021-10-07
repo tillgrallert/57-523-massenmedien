@@ -1,9 +1,11 @@
 ---
 layout: page
-title: About
-subtitle: 
+title: Von der Druckerpresse zu Radio und Twitter
+subtitle: Verflechtungsgeschichte(n) der Massenmedien im östlichen Mittelmeerraum seit dem 19. Jahrhundert
 author: Till Grallert
-date: 2021-09-30
+date: 2021-10-07
+cover-img: /assets/img/map-periodicals_middle-east_1855-1929_temp-dist-y_5.gif
+tags: [introduction, about]
 ---
 
 Diese Webseite dient zur Dokumentation des Grundseminars "Von der Druckerpresse zu Radio und Twitter: Verflechtungsgeschichte(n) der Massenmedien im östlichen Mittelmeerraum seit dem 19. Jahrhundert" (57-523) an der Universität Hamburg im Wintersemester 2021/22 sowie zur Kommunikation mit und zwischen den Studierenden.
