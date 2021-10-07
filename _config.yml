@@ -20,7 +20,7 @@ author: Till Grallert
 #url: "https://example.com"
 
 # baseurl should be an empty string
-baseurl: "57-523-massenmedien"
+baseurl: "/57-523-massenmedien"
 
 # --- Navigation bar options --- #
 
