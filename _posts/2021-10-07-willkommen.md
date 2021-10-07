@@ -9,7 +9,7 @@ tags: [introducttion, about]
 comments: true
 ---
 
-Unser Seminar "GS 57-523 zur Verflechtungsgeschichte von Massenmedien im östlichen Mittelmeerraum" begint in der nächsten Woche und wahrscheinlich Sind Sie hier, weil Sie Sich für dieses Seminar angemeldet und durch meine Email Kenntnis von dieser Webseite erhalten haben. Ich möchte den Moment nutzen um Sie willkommen zu heißen und mich kurz vorzustellen. Alles wichtige über das Seminar finden Sie unter [About](pages/about).
+Unser Seminar "GS 57-523 zur Verflechtungsgeschichte von Massenmedien im östlichen Mittelmeerraum" begint in der nächsten Woche und wahrscheinlich Sind Sie hier, weil Sie Sich für dieses Seminar angemeldet und durch meine Email Kenntnis von dieser Webseite erhalten haben. Ich möchte den Moment nutzen um Sie willkommen zu heißen und mich kurz vorzustellen. Alles wichtige über das Seminar finden Sie unter [About](/pages/about).
 
 
 # Zu mir
