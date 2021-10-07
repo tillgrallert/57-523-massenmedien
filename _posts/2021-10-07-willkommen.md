@@ -4,6 +4,7 @@ title: Willkommen
 subtitle: Das Seminar kann beginnen
 author: Till Grallert
 date: 2021-10-07
+thumbnail-img: /assets/img/hello_world.jpg
 tags: [introducttion, about]
 comments: true
 ---
