@@ -90,16 +90,17 @@ Kollegialität und Großzügigkeit bedeutet auch, für alle Sitzungen vorbereite
 
 ## Seminarplan
 
-Den Seminarplan werden wir im Detail gemeinsam entwicklen. Die vorraussichtlichen Themen gruppieren sich in zwei Blöcke:
+Den Seminarplan werden wir im Detail gemeinsam entwicklen. Die vorraussichtlichen Themen gruppieren sich wie folgt:
 
 1. Zugänge: Infrastrukturstudien, Medienarchäologie, Verflechtungsgeschichte, Postkoloniale Studien
+2. Themen: Osmanisches Reich, Modernisierungsprozesse, Nationalismus, Öffentlicher Raum
 2. Fallstudien: Druckrevolution, Presse, Radio und Fernsehen, Soziale Medien/Platformen
 
 ## Vor unserem ersten Treffen
 
 1. Richten Sie die notwendigen Konten ein.
-2. Erkunden Sie diese Webseite und annotieren Sie diese auf der . Bitte beachten Sie, dass alle Ihre Annotationen Teil der Gruppe [`57-523-massenmedien`](https://hypothes.is/groups/a2AopLj2/57-523-massenmedien). sein sollten.
-3. Bereiten Sie sich auf eine kurze Vorstellungsrunde vor, die uns helfen soll, die Richtung die Schwerpunkte des Seminars gemeinsam zu entwickeln. Dies sollte entlang folgender Fragen geschehen: 
+2. Erkunden Sie diese Webseite und annotieren Sie diese auf der . Bitte beachten Sie, dass alle Ihre Annotationen Teil der Gruppe [`57-523-massenmedien`](https://hypothes.is/groups/a2AopLj2/57-523-massenmedien) sein sollten.
+3. Bereiten Sie sich auf eine kurze Vorstellungsrunde vor, die uns helfen soll, die Richtung und Schwerpunkte des Seminars gemeinsam zu entwickeln. Dies sollte entlang folgender Fragen geschehen: 
     - Welche Fächer studieren Sie mit welchen Schwerpunkten und wie lange schon?
     - Welche Sprachkenntnisse haben Sie?
     - In welchem Umfang haben Sie sich bisher mit der Geschichte der Gesellschaften des östlichen Mittelmeerraumes beschäftigt?
