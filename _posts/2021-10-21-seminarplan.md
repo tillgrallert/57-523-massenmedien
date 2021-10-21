@@ -1,11 +1,11 @@
 ---
 layout: post
 title: "Seminarplan"
-subtitle: ""
+subtitle: "Erste Bibliographie"
 author: Till Grallert
-date: 2021-10-04 
+date: 2021-10-21 
 ORCID: orcid.org/0000-0002-5739-8094
-bibliography: /assets/bibliography/bibliography_2021-Massenmedien.csl.json
+bibliography: ../assets/bibliography/bibliography_2021-Massenmedien.csl.json
 lang: de
 suppress-bibliography: true
 # thumbnail-img: /assets/img/hello_world.jpeg
@@ -13,41 +13,42 @@ tags: [introduction, about, syllabus, bibliography]
 comments: true
 ---
 
-Es ist so weit. Wir haben heute einen Seminarplan für die nächsten Sitzungen besprochen, der sich in zwei große Blöcke, nach Zugängen und Fallstudien, teilt.
+Es ist so weit. Wir haben heute einen Seminarplan für die nächsten Sitzungen besprochen, der sich in zwei große Blöcke, nach Zugängen und Fallstudien, teilt. Die thematische Gliederung wird dann noch in Sitzungen unterteilt, da einige Themen für eine einzelne Sitzung zu groß sind.
 
 
 # 1. Zugänge
 ## 1.1 Verflechtungsgeschichte
 
 - Einführung
-    + [@Conrad+2013+GlobalgeschichteEineEinfuehrung]
+    + <span class="citation">Sebastian Conrad, <em>Globalgeschichte: Eine Einführung</em>, Beck’sche Reihe (Hamburg: Beck, 2013).</span>
 - Beispiele: Erste Lynotype Schriften für indische Schriften (Hindi)
-    + [@Singh+2018+TheFirstIndianscript]
-    + [@Singh+2018+TheMachineIn]
+    + <span class="citation">Vaibhav Singh, „The First Indian-Script Typeface on the Monotype: A Missing Chapter in the History of Mechanical Typecasting“, <em>Journal of the Printing Historical Society</em> 29 (2018), <a href="http://printinghistoricalsociety.org.uk" role="doc-biblioref">http://printinghistoricalsociety.org.uk</a>.</span>
+        * Das Auftöbern dieses Artikels erfordert Ihren Einsatz.
+    + <span class="citation">Vaibhav Singh, „The Machine in the Colony: Technology, Politics, and the Typography of Devanagari in the Early Years of Mechanization“, <em>Philological Encounters</em> 3, Nr. 4 (2018), <a href="https://doi.org/10.1163/24519197-12340051" role="doc-biblioref">https://doi.org/10.1163/24519197-12340051</a>.</span>
 
 ## 1.2 Infrastrukturstudien
 
 - Einführungen:
-    + [@Larkin+2013+ThePoliticsAnd]
-    + [@Star+1999+TheEthnographyOf]
-    + [@Parks.Starosielski+2015+Introduction]
+    + <span class="citation">Brian Larkin, „The Politics and Poetics of Infrastructure“, <em>Annual Review of Anthropology</em> 42, Nr. 1 (21. August 2013): 327–43, <a href="https://doi.org/10.1146/annurev-anthro-092412-155522" role="doc-biblioref">https://doi.org/10.1146/annurev-anthro-092412-155522</a>.</span>
+    + <span class="citation">Susan Leigh Star, „The Ethnography of Infrastructure“, <em>American Behavioral Scientist</em> 43, Nr. 3 (November 1999): 377–91, <a href="https://doi.org/10.1177/00027649921955326" role="doc-biblioref">https://doi.org/10.1177/00027649921955326</a>.</span>
+    + <span class="citation">Lisa Parks und Nicole Starosielski, „Introduction“, in <em>Signal Traffic: Critical Studies of Media Infrastructures</em>, hg. von Lisa Parks und Nicole Starosielski, The Geopolitics of Information (Urbana: University of Illinois Press, 2015), 1–27.</span>
 - Beispiele: Elektrifizierung und Eisenbahn als erste Technologie (integriertes sozio-technisches System)
-    + [@Nye+1990]
-    + [@Schivelbusch+2007+GeschichteDerEisenbahnreise]
+    + <span class="citation">David E Nye, <em>Electrifying America: Social Meanings of a New Technology, 1880-1940</em> (Cambridge: MIT Press, 1990).</span>
+    + <span class="citation">Wolfgang Schivelbusch, <em>Geschichte der Eisenbahnreise: zur Industrialisierung von Raum und Zeit im 19. Jahrhundert</em>, 4. Aufl. (1977; repr., Frankfurt am Main: Fischer, 2007).</span>
 - Infrastrukturen der Wissensproduktion: Schattenbibliotheken
-    * [@Seer+2017+VonDerSchattenbibliothek]
-    * [@Thylstrup+2018, 79-100]
-    * [@Tenen+2014a]
-    * [@Belinkov+2016]
+    * <span class="citation">Veil Seer, „Von der Schattenbibliothek zum Forschungskorpus. Ein Gespräch über Sci-Hub und die Folgen für die Wissenschaft“, <em>LIBREAS. Library Ideas</em> 32 (2017): 6.</span>
+    * <span class="citation">Nanna Bonde Thylstrup, <em>The Politics of Mass Digitization</em> (Cambridge: The MIT Press, 2018), 79–100.</span>
+    * <span class="citation">Dennis Tenen und Maxwell Foxman, „Book Piracy as Peer Preservation“, <em>Computational Culture</em>, Nr. 4 (9. November 2014), <a href="http://computationalculture.net/article/book-piracy-as-peer-preservation" role="doc-biblioref">http://computationalculture.net/article/book-piracy-as-peer-preservation</a>.</span>
+    * <span class="citation">Yonatan Belinkov u. a., „Shamela: A large-scale historical Arabic corpus“, <em>arXiv preprint arXiv:1612.08989</em>, 2016.</span>
 
 ## 1.3 Medienarchäologie
 
 - Einführungen
-    + [@Parikka+2012+WhatIsMedia]
-    + [@Huhtamo.Parikka+2011+MediaArchaeologyApproaches]
-    + [@Gitelman.Pingree+2003+Introduction]
+    + <span class="citation">Jussi Parikka, <em>What Is Media Archaeology?</em> (Malden: Polity, 2012).</span>
+    + <span class="citation">Erkki Huhtamo und Jussi Parikka, Hrsg., <em>Media Archaeology: Approaches, Applications, and Implications</em> (Berkeley: University of California Press, 2011), <a href="https://www.ucpress.edu/book/9780520262744/media-archaeology" role="doc-biblioref">https://www.ucpress.edu/book/9780520262744/media-archaeology</a>.</span>
+    + <span class="citation">Lisa Gitelman und Geoffrey B Pingree, „Introduction“, in <em>New Media, 1740-1915</em>, hg. von Lisa Gitelman und Geoffrey B Pingree (Cambridge: MIT Press, 2003), xi–xxii.</span>
 - Beispiel / Fallstudie
-    + [@Winston+2002+MediaTechnologyAnd]
+    + <span class="citation">Brian Winston, <em>Media,Technology and Society: A History: From the Telegraph to the Internet</em> (Routledge, 2002).</span>
 
 ## 1.4 Postkoloniale Studien
 
