@@ -18,6 +18,7 @@ Es ist so weit. Wir haben heute einen Seminarplan für die nächsten Sitzungen b
 # 1. Zugänge
 
 ## 1.1 Verflechtungsgeschichte
+### 3. Sitzung: 27. Oktober 2021
 
 -   Einführung
     -   Sebastian Conrad, *Globalgeschichte: Eine Einführung*, Beck’sche Reihe (Hamburg: Beck, 2013).
@@ -27,6 +28,7 @@ Es ist so weit. Wir haben heute einen Seminarplan für die nächsten Sitzungen b
         -   Das Aufstöbern dieses Artikels ist eine Herausforderung
 
 ## 1.2 Infrastrukturstudien
+### 4. Sitzung: 4. November 2021
 
 -   Einführungen:
     -   Brian Larkin, „The Politics and Poetics of Infrastructure“, *Annual Review of Anthropology* 42, Nr. 1 (21. August 2013): 327–43, <https://doi.org/10.1146/annurev-anthro-092412-155522>.
@@ -35,6 +37,9 @@ Es ist so weit. Wir haben heute einen Seminarplan für die nächsten Sitzungen b
 -   Beispiele: Elektrifizierung und Eisenbahn als erste Technologie (integriertes sozio-technisches System)
     -   David E Nye, *Electrifying America: Social Meanings of a New Technology, 1880-1940* (Cambridge: MIT Press, 1990).
     -   Wolfgang Schivelbusch, *Geschichte der Eisenbahnreise: zur Industrialisierung von Raum und Zeit im 19. Jahrhundert*, 4. Aufl. (1977; repr., Frankfurt am Main: Fischer, 2007).
+
+### 5. Sitzung: 11. November 2021
+
 -   Infrastrukturen der Wissensproduktion: Schattenbibliotheken
     -   Veil Seer, „Von der Schattenbibliothek zum Forschungskorpus. Ein Gespräch über Sci-Hub und die Folgen für die Wissenschaft“, *LIBREAS. Library Ideas* 32 (2017): 6.
     -   Nanna Bonde Thylstrup, *The Politics of Mass Digitization* (Cambridge: The MIT Press, 2018), 79–100.
@@ -42,6 +47,7 @@ Es ist so weit. Wir haben heute einen Seminarplan für die nächsten Sitzungen b
     -   Yonatan Belinkov u. a., „Shamela: A large-scale historical Arabic corpus“, *arXiv preprint arXiv:1612.08989*, 2016.
 
 ## 1.3 Medienarchäologie
+### 6. Sitzung: 18. November 2021
 
 -   Einführungen
     -   Jussi Parikka, *What Is Media Archaeology?* (Malden: Polity, 2012).
@@ -51,10 +57,13 @@ Es ist so weit. Wir haben heute einen Seminarplan für die nächsten Sitzungen b
     -   Brian Winston, *Media,Technology and Society: A History: From the Telegraph to the Internet* (Routledge, 2002).
 
 ## 1.4 Postkoloniale Studien
+### 7. Sitzung: 25. November 2021
 
 -   Media Studies
     -   Terry Flew und Bonnie Rui Liu, „Media Convergence“, in *Postcolonial Studies Meets Media Studies: A Critical Encounter*, hg. von Kai Merten und Lucia Krämer (Bielefeld: transcript, 2016), 25–42.
     -   Maria Fernandez, „Postcolonial Media Theory“, *Art Journal* 58, Nr. 3 (1999): 58–73, <https://doi.org/10.1080/00043249.1999.10791954>.
+
+
 -   Orientalism
     -   Edward W. Said, *Orientalism* (London: Pinguin, 1978).
     -   Edward W. Said, „Orientalism Reconsidered“, in *Orientalism: A Reader*, hg. von Alexander Lyon Macfie (1985; repr., Cairo: American University in Cairo Press, 2000), 345–61.
@@ -62,8 +71,8 @@ Es ist so weit. Wir haben heute einen Seminarplan für die nächsten Sitzungen b
     -   Roman Loimeier, „Edward Said und der deutschsprachige Orientalismus: Eine Kritische Würdigung“, *Wiener Zeitschrift für kritische Afrikastudien* 2 (2001): 63–85.
 
 # 2. (Massen)Medien
-
 ## 2.1 Print revolution
+### 8. Sitzung: 2. Dezember 2021
 
 -   Einführungen: Soziale Transformationsprozesse
     -   Elizabeth L. Eisenstein, *The Printing Press as an Agent of Change: Communications and Cultural Transformations in Early-Modern Europe*, 2 Bde. (Cambridge: Cambridge University Press, 1980).
@@ -74,7 +83,7 @@ Es ist so weit. Wir haben heute einen Seminarplan für die nächsten Sitzungen b
     -   Orlin Sabev, *Waiting for Müteferrika: Glimpses on Ottoman Print Culture*, Ottoman and Turkish Studies (Boston: Academic Studies Press, 2018).
     -   Hala Auji, *Printing Arab Modernity: Book Culture and The American Press in Nineteenth-Century Beirut* (Leiden: Brill, 2016).
 
-## 2.1 Print revolution
+### 9. Sitzung: 9. Dezember 2021
 
 -   Infrastrukturen
     -   Produzenten
@@ -87,12 +96,19 @@ Es ist so weit. Wir haben heute einen Seminarplan für die nächsten Sitzungen b
         -   Johann Strauss, „Who Read What in the Ottoman Empire (19th-20th Centuries)?“, *Middle Eastern Literatures* 6, Nr. 1 (2010-06-xx): 39–76, <https://doi.org/10/d7tjzd>.
         -   Benjamin C. Fortna, *Learning to Read in the Late Ottoman Empire and the Early Turkish Republic* (Houndmills: Palgrave Macmillan, 2011).
 
+
 ## 2.2 Presse
+### 10. Sitzung: 16. Dezember 2021
 
 -   Einführungen
     -   Sean Latham und Robert Scholes, „The Rise of Periodical Studies“, *Pmla* 121, Nr. 2 (2006): 517–31, <https://doi.org/10.1632/003081206X129693>.
     -   Ami Ayalon, „Sihafa: The Arab Experiment in Journalism“, *Middle Eastern Studies* 28, Nr. 2 (1992): 258–80, <https://doi.org/10/fqwxp9>.
     -   Ami Ayalon, *The Press in the Arab Middle East: A History* (New York: Oxford University Press, 1995).
+
+***Weihnachten und Neujahr***
+
+### 11. Sitzung: 6. Januar 2022
+
 -   Infrastrukturen
     -   Druck
     -   Rechtlicher Rahmen / Staatlicher Einfluß
@@ -105,6 +121,7 @@ Es ist so weit. Wir haben heute einen Seminarplan für die nächsten Sitzungen b
     -   Distribution
 
 ## 2.2 Presse
+### 12. Sitzung: 13. Januar 2022
 
 -   Die Idee der Gleichzeitigkeit / Gegenwart / linerare Zeit
     -   Presse
@@ -116,5 +133,7 @@ Es ist so weit. Wir haben heute einen Seminarplan für die nächsten Sitzungen b
         -   Vanessa Ogle, „Whose Time Is It? The Pluralization of Time and the Global Condition, 1870s-1940s“, *The American Historical Review* 118, Nr. 5 (2013): 1376–1402, <https://doi.org/10/gh3vqn>.
 
 ## 2.3 Radio/Fernsehen
+### 13. Sitzung: 20. Januar 2022
 
 ## 2.4 Social Media
+### 14. Sitzung: 27. Januar 2022
