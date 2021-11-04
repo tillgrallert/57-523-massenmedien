@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Seminarplan"
-subtitle: "Erste Bibliographie"
+subtitle: "Bibliographie und Sitzungen"
 author: Till Grallert
 date: 2021-10-21 
 ORCID: orcid.org/0000-0002-5739-8094
@@ -14,6 +14,8 @@ comments: true
 ---
 
 Es ist so weit. Wir haben heute einen Seminarplan für die nächsten Sitzungen besprochen, der sich in zwei große Blöcke, nach Zugängen und Fallstudien, teilt. Die thematische Gliederung wird dann noch in Sitzungen unterteilt, da einige Themen für eine einzelne Sitzung zu groß sind.
+
+*UPDATE:* die Einteilung in Sitzungen haben wir am 27. Oktober vorgenommen und am 4. November noch einmal besprochen.
 
 # 1. Zugänge
 
