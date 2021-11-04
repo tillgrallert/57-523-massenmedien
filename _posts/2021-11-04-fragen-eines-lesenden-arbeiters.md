@@ -1,7 +1,7 @@
 ---
 title: "Fragen eines lesenden Arbeiters"
 subtitle: ""
-author: Bertolt Brecht
+author: Till Grallert
 date: 2021-11-04 
 ORCID: orcid.org/0000-0002-5739-8094
 bibliography: ../assets/bibliography/bibliography_2021-Massenmedien.csl.json
@@ -9,6 +9,8 @@ lang: de
 suppress-bibliography: true
 comments: true
 ---
+
+Passend zu unseren Versuchen uns dem Gegenstand unseres Seminar über die verschiedenen Ansätze aus Global- bzw. Verflechtungsgeschichte, (kritischen) Infrastrukturstudien, Medienarchäologie und Postkolonial Studien zu nähern, habe ich heute auch Brecht's Gedicht "Fragen eines lesensen Arbeiters" erwähnt, dass den von Susan Star angeschnittenen methodologischen Fokus auf die Sichtbarkeitmachung unsichtbarer Arbeit bereits vorgreift.
 
 > Wer baute das siebentorige Theben?  
 > In den Büchern stehen die Namen von Königen.  
@@ -48,7 +50,8 @@ comments: true
 
 --- Bertolt Brecht
 
-Passend zu unseren Versuchen uns dem Gegenstand unseres Seminar über die verschiedenen Ansätze aus Global- bzw. Verflechtungsgeschichte, (kritischen) Infrastrukturstudien, Medienarchäologie und Postkolonial Studien zu nähern, haben ich heute auch Brecht's Gedicht "Fragen eines lesensen Arbeiters" erwähnt, dass den von Susan Star angeschnittenen methodologischen Fokus auf die Sichtbarkeitmachung unsichtbarer Arbeit bereits vorgreift. In diesem Kontext hatte ich Ihnen auch folgendes Buch ans Herz gelegt:
+
+In diesem Kontext möchte ich Ihnen auch folgendes Buch ans Herz legen:
 
 Marie Hicks, *Programmed Inequality: How Britain Discarded Women Technologists and Lost Its Edge in Computing* (Cambridge: MIT Press, 2018).
 
