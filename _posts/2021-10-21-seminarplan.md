@@ -44,7 +44,7 @@ Es ist so weit. Wir haben heute einen Seminarplan für die nächsten Sitzungen b
 
 -   Infrastrukturen der Wissensproduktion: Schattenbibliotheken
     -   Veil Seer, „Von der Schattenbibliothek zum Forschungskorpus. Ein Gespräch über Sci-Hub und die Folgen für die Wissenschaft“, *LIBREAS. Library Ideas* 32 (2017): 6.
-    -   Nanna Bonde Thylstrup, *The Politics of Mass Digitization* (Cambridge: The MIT Press, 2018), 79–100.
+    -   Nanna Bonde Thylstrup, "4 The Licit and Illicit Nature of Mass Digitization", in *The Politics of Mass Digitization* (Cambridge: The MIT Press, 2018), 79–100.
     -   Dennis Tenen und Maxwell Foxman, „Book Piracy as Peer Preservation“, *Computational Culture*, Nr. 4 (9. November 2014), <http://computationalculture.net/article/book-piracy-as-peer-preservation>.
     -   Yonatan Belinkov u. a., „Shamela: A large-scale historical Arabic corpus“, *arXiv preprint arXiv:1612.08989*, 2016.
 
