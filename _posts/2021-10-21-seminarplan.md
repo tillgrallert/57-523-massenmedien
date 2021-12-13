@@ -82,20 +82,22 @@ Es ist so weit. Wir haben heute einen Seminarplan für die nächsten Sitzungen b
     -   Ami Ayalon, *The Arabic Print Revolution: Cultural Production and Mass Readership* (Cambridge: Cambridge University Press, 2016).
 -   Technologien
     -   Titus Nemeth, *Arabic Type-Making in the Machine Age: The Influence of Technology on the Form of Arabic Type, 1908-1993* (Leiden: Brill, 2017), <https://doi.org/10.1163/9789004349308>.
+        +   ch.1, pp.14--26
+        +   ch.2: mechanisation of Arabic printing
     -   Orlin Sabev, *Waiting for Müteferrika: Glimpses on Ottoman Print Culture*, Ottoman and Turkish Studies (Boston: Academic Studies Press, 2018).
     -   Hala Auji, *Printing Arab Modernity: Book Culture and The American Press in Nineteenth-Century Beirut* (Leiden: Brill, 2016).
 
 ### 9. Sitzung: 9. Dezember 2021
 
 -   Infrastrukturen
-    -   Produzenten
-        -   Kathryn A. Schwartz, „The Political Economy of Private Printing in Cairo as Told from A Commissioning Deal Turned Sour, 1871“, *International Journal of Middle East Studies* 49, Nr. 1 (Februar 2017): 25–45, <https://doi.org/10/f9wh45>.
-        -   Ami Ayalon, „Arab Booksellers and Bookshops in the Age of Printing, 1850–1914“, *British Journal of Middle Eastern Studies* 37, Nr. 1 (27. April 2010): 73–93, <https://doi.org/10/dm6cx4>.
+    -   Produzenten (Peker, Schneider)
+        - **Pflicht**  Kathryn A. Schwartz, „The Political Economy of Private Printing in Cairo as Told from A Commissioning Deal Turned Sour, 1871“, *International Journal of Middle East Studies* 49, Nr. 1 (Februar 2017): 25–45, <https://doi.org/10/f9wh45>.
+        - **Pflicht**  Ami Ayalon, „Arab Booksellers and Bookshops in the Age of Printing, 1850–1914“, *British Journal of Middle Eastern Studies* 37, Nr. 1 (27. April 2010): 73–93, <https://doi.org/10/dm6cx4>.
         -   Dana Sajdi, „Print and Its Discontents“, *The Translator* 15, Nr. 1 (1. April 2009): 105–38, <https://doi.org/10/ggts35>.
-    -   Konsumenten
-        -   Ami Ayalon, „Modern Texts and Their Readers in Late Ottoman Palestine“, *Middle Eastern Studies* 38, Nr. 4 (2002): 17–40, <https://doi.org/10/c8sg6m>.
+    -   Konsumenten (Jagusch, Suhadi-Brata, Rashed)
+        -  **Pflicht** Ami Ayalon, „Modern Texts and Their Readers in Late Ottoman Palestine“, *Middle Eastern Studies* 38, Nr. 4 (2002): 17–40, <https://doi.org/10/c8sg6m>.
         -   Ami Ayalon, *Reading Palestine: Printing and Literacy, 1900–1948* (Austin: University of Texas Press, 2004).
-        -   Johann Strauss, „Who Read What in the Ottoman Empire (19th-20th Centuries)?“, *Middle Eastern Literatures* 6, Nr. 1 (2010-06-xx): 39–76, <https://doi.org/10/d7tjzd>.
+        -  **Pflicht** Johann Strauss, „Who Read What in the Ottoman Empire (19th-20th Centuries)?“, *Middle Eastern Literatures* 6, Nr. 1 (2010-06-xx): 39–76, <https://doi.org/10/d7tjzd>.
         -   Benjamin C. Fortna, *Learning to Read in the Late Ottoman Empire and the Early Turkish Republic* (Houndmills: Palgrave Macmillan, 2011).
 
 
@@ -136,6 +138,17 @@ Es ist so weit. Wir haben heute einen Seminarplan für die nächsten Sitzungen b
 
 ## 2.3 Radio/Fernsehen
 ### 13. Sitzung: 20. Januar 2022
+
+-   Andrea L. Stanton, „Who Heard What When: Learning from Radio Broadcasting Hours and Programs in Jerusalem", *International Journal of Middle East Studies* 48, Nr. 1 (2016): 141--45, <https://doi.org/10.1017/s0020743815001555>.
+-   Palestine: "pre"-history of Arab radio
+    -   Andrea Stanton, *This Is Jerusalem Calling: State Radio in Mandate Palestine* (Austin: University of Texas Press, 2013), <https://digitalcommons.du.edu/religious_studies_faculty/2>, Introduction.
+-   Voice of the Arabs / *Ṣawṭ al-ʿArab*
+    -   Anas Alahmed, „Voice of the Arabs Radio: Its Effects and Political Power During the Nasser Era (1953-1967)", SSRN Scholarly Paper (Rochester, NY: Social Science Research Network, 12. März 2011), <https://doi.org/10.2139/ssrn.2047212>.
+    -   Omar Sayfo, „A Celebrity from the Sky: ʿAbd Al-Bāsiṭ ʿAbd Al-Ṣamad's Journey to National and International Fame in ʿAbd Al-Nāṣir's and Al-Sādāt's Egypt", *Die Welt Des Islams* -1, Nr. aop (7. Juli 2021): 1--25, <https://doi.org/10/gmdff9>.
+-   Syria
+    -   Kevin W. Martin, *Syria's Democratic Years: Citizens, Experts, and Media in the 1950s* (Bloomington: Indiana University Press, 2015), ch. 2.
+
+<!-- Kai Hafez is too much of a sociologist and political theorist to be of interest to us. He is neither concerned with infrastructues nor global history -->
 
 ## 2.4 Social Media
 ### 14. Sitzung: 27. Januar 2022
