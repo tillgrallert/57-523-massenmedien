@@ -90,7 +90,7 @@ Kollegialität und Großzügigkeit bedeutet auch, für alle Sitzungen vorbereite
 
 ## Seminarplan
 
-Den Seminarplan werden wir im Detail gemeinsam entwicklen. Die vorraussichtlichen Themen gruppieren sich wie folgt:
+Den [Seminarplan]({% post_url 2021-10-21-seminarplan %}) werden wir im Detail gemeinsam entwicklen. Die vorraussichtlichen Themen gruppieren sich wie folgt:
 
 1. Zugänge: Infrastrukturstudien, Medienarchäologie, Verflechtungsgeschichte, Postkoloniale Studien
 2. Themen: Osmanisches Reich, Modernisierungsprozesse, Nationalismus, Öffentlicher Raum
