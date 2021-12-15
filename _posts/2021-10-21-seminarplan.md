@@ -9,6 +9,7 @@ bibliography: ../assets/bibliography/bibliography_2021-Massenmedien.csl.json
 lang: de
 suppress-bibliography: true
 # thumbnail-img: /assets/img/hello_world.jpeg
+cover-img: /assets/img/di-tarrazi-v_2-p_132-photos-sarkis.jpg
 tags: [introduction, about, syllabus, bibliography]
 comments: true
 ---
