@@ -115,7 +115,6 @@ Es ist so weit. Wir haben heute einen Seminarplan für die nächsten Sitzungen b
 ### 11. Sitzung: 6. Januar 2022
 
 -   Infrastrukturen
-    -   Druck
     -   Rechtlicher Rahmen / Staatlicher Einfluß
         -   Donald J. Cioeta, „Ottoman Censorship in Lebanon and Syria, 1876-1908“, *International Journal of Middle East Studies* 10 (1979): 167–86, <https://doi.org/10/d7mtx2>.
         -   Ebru Boyar, „The Press and the Palace: The Two-Way Relationship Between Abdülhamid II and the Press, 1876-1908“, *Bulletin of the School of Oriental and African Studies* 69, Nr. 3 (2006): 417–32, <https://doi.org/10/dr3dn5>.
@@ -123,7 +122,6 @@ Es ist so weit. Wir haben heute einen Seminarplan für die nächsten Sitzungen b
         -   Ceren Uçan, „Endeavoring to establish an imperial news agency: the Ottoman Telegraph Agency“, *Turkish Studies* 21, Nr. 5 (2019): 750–71, <https://doi.org/10.1080/14683849.2019.1682560>.
         -   Servet Yanatma, „Dominance, Collaboration and Resistance: Developing the Idea of a National News Agency in the Ottoman Empire, 1854–1914“, *Journalism*, 3. Juni 2020, <https://doi.org/10/gm6gp4>.
         -   Ceren Uçan, „Breaking the news: a case study on nineteenth century journalism and Selim Faris“, *Middle Eastern Studies* 57, Nr. 4 (4. Juli 2021): 657–67, <https://doi.org/10.1080/00263206.2021.1874362>.
-    -   Distribution
 
 ## 2.2 Presse
 ### 12. Sitzung: 13. Januar 2022
