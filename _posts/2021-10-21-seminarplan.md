@@ -91,11 +91,11 @@ Es ist so weit. Wir haben heute einen Seminarplan für die nächsten Sitzungen b
 ### 9. Sitzung: 9. Dezember 2021
 
 -   Infrastrukturen
-    -   Produzenten (Peker, Schneider)
+    -   Produzenten
         - **Pflicht**  Kathryn A. Schwartz, „The Political Economy of Private Printing in Cairo as Told from A Commissioning Deal Turned Sour, 1871“, *International Journal of Middle East Studies* 49, Nr. 1 (Februar 2017): 25–45, <https://doi.org/10/f9wh45>.
         - **Pflicht**  Ami Ayalon, „Arab Booksellers and Bookshops in the Age of Printing, 1850–1914“, *British Journal of Middle Eastern Studies* 37, Nr. 1 (27. April 2010): 73–93, <https://doi.org/10/dm6cx4>.
         -   Dana Sajdi, „Print and Its Discontents“, *The Translator* 15, Nr. 1 (1. April 2009): 105–38, <https://doi.org/10/ggts35>.
-    -   Konsumenten (Jagusch, Suhadi-Brata, Rashed)
+    -   Konsumenten
         -  **Pflicht** Ami Ayalon, „Modern Texts and Their Readers in Late Ottoman Palestine“, *Middle Eastern Studies* 38, Nr. 4 (2002): 17–40, <https://doi.org/10/c8sg6m>.
         -   Ami Ayalon, *Reading Palestine: Printing and Literacy, 1900–1948* (Austin: University of Texas Press, 2004).
         -  **Pflicht** Johann Strauss, „Who Read What in the Ottoman Empire (19th-20th Centuries)?“, *Middle Eastern Literatures* 6, Nr. 1 (2010-06-xx): 39–76, <https://doi.org/10/d7tjzd>.
