@@ -123,8 +123,10 @@ Es ist so weit. Wir haben heute einen Seminarplan für die nächsten Sitzungen b
         -   Servet Yanatma, „Dominance, Collaboration and Resistance: Developing the Idea of a National News Agency in the Ottoman Empire, 1854–1914“, *Journalism*, 3. Juni 2020, <https://doi.org/10/gm6gp4>.
         -   Ceren Uçan, „Breaking the news: a case study on nineteenth century journalism and Selim Faris“, *Middle Eastern Studies* 57, Nr. 4 (4. Juli 2021): 657–67, <https://doi.org/10.1080/00263206.2021.1874362>.
 
-## 2.2 Presse
+
 ### 12. Sitzung: 13. Januar 2022
+
+***UPDATE: Die dritte Sitzung zu Periodika haben wir zugunsten von Radio und Fernsehen abgesagt***
 
 -   Die Idee der Gleichzeitigkeit / Gegenwart / linerare Zeit
     -   Presse
@@ -136,7 +138,7 @@ Es ist so weit. Wir haben heute einen Seminarplan für die nächsten Sitzungen b
         -   Vanessa Ogle, „Whose Time Is It? The Pluralization of Time and the Global Condition, 1870s-1940s“, *The American Historical Review* 118, Nr. 5 (2013): 1376–1402, <https://doi.org/10/gh3vqn>.
 
 ## 2.3 Radio/Fernsehen
-### 13. Sitzung: 20. Januar 2022
+### 12. Sitzung: 13. Januar 2022: Radio
 
 -   Andrea L. Stanton, „Who Heard What When: Learning from Radio Broadcasting Hours and Programs in Jerusalem", *International Journal of Middle East Studies* 48, Nr. 1 (2016): 141--45, <https://doi.org/10.1017/s0020743815001555>.
 -   Palestine: "pre"-history of Arab radio
@@ -148,6 +150,17 @@ Es ist so weit. Wir haben heute einen Seminarplan für die nächsten Sitzungen b
     -   Kevin W. Martin, *Syria's Democratic Years: Citizens, Experts, and Media in the 1950s* (Bloomington: Indiana University Press, 2015), ch. 2.
 
 <!-- Kai Hafez is too much of a sociologist and political theorist to be of interest to us. He is neither concerned with infrastructues nor global history -->
+
+### 13. Sitzung: 20. Januar 2022: Fernsehen
+
+- Marc Lynch, *Voices of the new Arab public: Iraq, Al-Jazeera, and Middle East politics today* (Columbia University Press, 2006):
+    + “From Voice of the Arabs to al-Jazeera”, 36--51
+- Marwan M. Kraidy, *Reality Television and Arab Politics: Contention in Public Life*, Communication, Society and Politics (Cambridge: Cambridge University Press, 2010):
+    +  "Introduction: Beyond al-Jazeera", 1--21.
+    +  "Screens of Contention: The battle for Arab Viewers", 22--45
+- Yasmin Moll, „The Idea of Islamic Media: The Qur’an and the Decolonization of Mass Communication“, *International Journal of Middle East Studies* 52, Nr. 4 (November 2020): 623–42, <https://doi.org/10.1017/s0020743820000781>
+
+
 
 ## 2.4 Social Media
 ### 14. Sitzung: 27. Januar 2022
