@@ -161,6 +161,10 @@ Es ist so weit. Wir haben heute einen Seminarplan für die nächsten Sitzungen b
 - Yasmin Moll, „The Idea of Islamic Media: The Qur’an and the Decolonization of Mass Communication“, *International Journal of Middle East Studies* 52, Nr. 4 (November 2020): 623–42, <https://doi.org/10.1017/s0020743820000781>
 
 
-
 ## 2.4 Social Media
 ### 14. Sitzung: 27. Januar 2022
+
+-   Zeynep Tufekci, *Twitter and Tear Gas: The Power and Fragility of Networked Protest* (Yale University Press, 2017), <https://doi.org/10.12987/9780300228175>.
+-   Mujtaba Ali Isani, „Methodological Problems of Using Arabic-Language Twitter as a Gauge for Arab Attitudes Toward Politics and Society“, *Contemporary Review of the Middle East* 8, Nr. 1 (1. März 2021): 22–35, <https://doi.org/10.1177/2347798920976283>.
+-   Ahmed Al-Rawi, „Trolling and Praising the Arab Spring on Twitter“, in *The Routledge Handbook of Digital Media and Globalization*, hg. von Dal Yong Jin (London: Routledge, 2021), 2015–2221, <https://doi.org/10.4324/9780367816742-27>.
+-   Tal Samuel-Azran und Tsahi (Zack) Hayat, „The Geography of the Arab Public Sphere on Twitter“, *Technology in Society* 62 (2020), <https://doi.org/10.1016/j.techsoc.2020.101327>.
